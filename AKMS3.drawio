@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T20:48:32.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="w5a21BBYWWuHsyJ2_Kv-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T20:54:29.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="oL0zfH6gn7vjHfCtssUx" version="24.3.1" type="github">
   <diagram name="Page-1" id="CcjjviD7n0SHSWbUQ4M4">
-    <mxGraphModel dx="1157" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,17 +1796,20 @@
             <mxPoint x="-27" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-1" target="SolspKhvzFaGAcxTTi5h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-1" value="Внутренний заказчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1060" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-2" value="Запрос вычислительных ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="1220" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-3" value="Менеджер инфраструктуры" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1625" y="510" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-4" value="Информационная система" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="490" width="30" height="60" as="geometry" />
+          <mxGeometry x="1265" y="510" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1817,7 +1820,7 @@
         <mxCell id="SolspKhvzFaGAcxTTi5h-6" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-8" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-8" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-10" target="SolspKhvzFaGAcxTTi5h-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="977.5" y="450" as="sourcePoint" />
             <mxPoint x="1077.5" y="450" as="targetPoint" />
@@ -1842,10 +1845,46 @@
           <mxGeometry x="1580" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-15" value="Вендор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="500" width="30" height="60" as="geometry" />
+          <mxGeometry x="1005" y="450" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SolspKhvzFaGAcxTTi5h-16" value="Оценка стоимости" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-16" target="SolspKhvzFaGAcxTTi5h-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="230" as="sourcePoint" />
+            <mxPoint x="1580" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-19" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-14" target="SolspKhvzFaGAcxTTi5h-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="90" as="sourcePoint" />
+            <mxPoint x="1560" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-21" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-26" target="SolspKhvzFaGAcxTTi5h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-26" value="Внесение заявки на выделение ресурсов в информационную систему" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="310" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-2" target="SolspKhvzFaGAcxTTi5h-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="240" as="sourcePoint" />
+            <mxPoint x="1500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-28" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SolspKhvzFaGAcxTTi5h-30" value="Расчет ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1442.5" y="480" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
