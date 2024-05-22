@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T22:42:43.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="NHNG_5XU9Lf-nefv7yhB" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T07:01:55.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="X3ME_lGy_rlrCiJiwjLD" version="24.4.4" type="github">
   <diagram name="Page-1" id="CcjjviD7n0SHSWbUQ4M4">
-    <mxGraphModel dx="2420" dy="1465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SolspKhvzFaGAcxTTi5h-106" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-106" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="3380" y="1421.5" width="510" height="120.5" as="geometry" />
         </mxCell>
         <mxCell id="o7Sh_ZkmPcDzMAhBmwNY-1" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -1799,217 +1799,217 @@
             <mxPoint x="-27" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-1" target="SolspKhvzFaGAcxTTi5h-2">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="SolspKhvzFaGAcxTTi5h-1" target="SolspKhvzFaGAcxTTi5h-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-1" value="Внутренний заказчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-1" value="Внутренний заказчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2870" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-2" value="Запрос вычислительных ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-2" value="Запрос вычислительных ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2960" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-30">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-38">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-63">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-3" target="SolspKhvzFaGAcxTTi5h-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-3" value="Менеджер инфраструктуры" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-3" value="Менеджер инфраструктуры" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3405" y="560" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-4" target="SolspKhvzFaGAcxTTi5h-39">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-4" target="SolspKhvzFaGAcxTTi5h-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-4" value="Информационная система" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-4" value="Информационная система" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3005" y="560" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-26" target="SolspKhvzFaGAcxTTi5h-30">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-26" target="SolspKhvzFaGAcxTTi5h-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2717.5" y="460" as="sourcePoint" />
             <mxPoint x="2817.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-6" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-5">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-6" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-5" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-10" value="Расчет ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-10" value="Расчет ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3360" y="405" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-11" value="Проверка наличия ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-11" value="Проверка наличия ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3590" y="405" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-12" target="SolspKhvzFaGAcxTTi5h-3">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-12" target="SolspKhvzFaGAcxTTi5h-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-12" value="Актуализация ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-12" value="Актуализация ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3590" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-13" value="Составление технических требований" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-13" value="Составление технических требований" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3785" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-14" value="Составление спецификации" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-14" value="Составление спецификации" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3785" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-15" target="SolspKhvzFaGAcxTTi5h-48">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-15" target="SolspKhvzFaGAcxTTi5h-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-15" value="Вендор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-15" value="Вендор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3635" y="795" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-16" value="Оценка стоимости" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-16" value="Оценка стоимости" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3785" y="405" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-16" target="SolspKhvzFaGAcxTTi5h-14">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-16" target="SolspKhvzFaGAcxTTi5h-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3260" y="280" as="sourcePoint" />
             <mxPoint x="3360" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-19" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-18">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-19" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-18" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-14" target="SolspKhvzFaGAcxTTi5h-13">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-14" target="SolspKhvzFaGAcxTTi5h-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3240" y="140" as="sourcePoint" />
             <mxPoint x="3340" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-21" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-20">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-21" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-20" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-26" target="SolspKhvzFaGAcxTTi5h-4">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-26" target="SolspKhvzFaGAcxTTi5h-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-26" value="Внесение заявки на выделение ресурсов в информационную систему" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-26" value="Внесение заявки на выделение ресурсов в информационную систему" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2945" y="420" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-2" target="SolspKhvzFaGAcxTTi5h-26">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-2" target="SolspKhvzFaGAcxTTi5h-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3140" y="290" as="sourcePoint" />
             <mxPoint x="3240" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-28" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-27">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-28" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-27" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-30" value="Проверка заявок" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-30" value="Проверка заявок" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3165" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-35" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-11" target="SolspKhvzFaGAcxTTi5h-12">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-35" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-11" target="SolspKhvzFaGAcxTTi5h-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3790" y="530" as="sourcePoint" />
             <mxPoint x="3890" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-36" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-35">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-36" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-35" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-38" value="Предоставление ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-38" value="Предоставление ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3360" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-39" value="Закрытие заявки на выделение ресурсов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-39" value="Закрытие заявки на выделение ресурсов" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="2958.13" y="690" width="123.75" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-38" target="SolspKhvzFaGAcxTTi5h-39">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-38" target="SolspKhvzFaGAcxTTi5h-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3210" y="680" as="sourcePoint" />
             <mxPoint x="3310" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-45" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-44">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-45" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-44" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-48" value="Закупка ресурсов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-48" value="Закупка ресурсов" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3590" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-52" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-10" target="SolspKhvzFaGAcxTTi5h-11">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-52" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-10" target="SolspKhvzFaGAcxTTi5h-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3540" y="350" as="sourcePoint" />
             <mxPoint x="3640" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-53" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-52">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-53" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-52" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-11" target="SolspKhvzFaGAcxTTi5h-16">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-54" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-11" target="SolspKhvzFaGAcxTTi5h-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3470" y="340" as="sourcePoint" />
             <mxPoint x="3570" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-55" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-54">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-55" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-54" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-13" target="SolspKhvzFaGAcxTTi5h-48">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-57" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-13" target="SolspKhvzFaGAcxTTi5h-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3790" y="860" as="sourcePoint" />
             <mxPoint x="3890" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-58" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-57">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-58" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-57" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-59" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-48" target="SolspKhvzFaGAcxTTi5h-38">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-59" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-48" target="SolspKhvzFaGAcxTTi5h-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3730" y="860" as="sourcePoint" />
             <mxPoint x="3830" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-60" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-59">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-60" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-59" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-61" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-48" target="SolspKhvzFaGAcxTTi5h-12">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-61" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-48" target="SolspKhvzFaGAcxTTi5h-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3680" y="820" as="sourcePoint" />
             <mxPoint x="3780" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-62" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-61">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-62" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-61" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-63" value="Обработка заявки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-63" value="Обработка заявки" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3165" y="405" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-64" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-30" target="SolspKhvzFaGAcxTTi5h-63">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-64" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-30" target="SolspKhvzFaGAcxTTi5h-63" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3310" y="300" as="sourcePoint" />
             <mxPoint x="3410" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-65" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-64">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-65" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-64" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-66" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-63" target="SolspKhvzFaGAcxTTi5h-10">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-66" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-63" target="SolspKhvzFaGAcxTTi5h-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3260" y="300" as="sourcePoint" />
             <mxPoint x="3360" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-67" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-66">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-67" value="include" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-66" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-68" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-12" target="SolspKhvzFaGAcxTTi5h-38">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-68" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1" source="SolspKhvzFaGAcxTTi5h-12" target="SolspKhvzFaGAcxTTi5h-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3460" y="880" as="sourcePoint" />
             <mxPoint x="3560" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-69" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SolspKhvzFaGAcxTTi5h-68">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-69" value="extend" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="SolspKhvzFaGAcxTTi5h-68" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-71" value="Информационная система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-71" value="Информационная система" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="3450" y="1030" width="100" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="45" y="85" width="10" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="50" y="115" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-88" value="1.1 Создание&lt;div&gt;заявки&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" target="SolspKhvzFaGAcxTTi5h-87" parent="SolspKhvzFaGAcxTTi5h-71" source="SolspKhvzFaGAcxTTi5h-85">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-88" value="1.1 Создание&lt;div&gt;заявки&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" source="SolspKhvzFaGAcxTTi5h-85" target="SolspKhvzFaGAcxTTi5h-87" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="95" as="sourcePoint" />
             <Array as="points">
@@ -2018,37 +2018,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-100" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-100" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="45" y="325" width="10" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-111" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-111" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="45" y="482" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-117" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-117" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="45" y="531" width="10" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-120" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-71">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-120" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-71" vertex="1">
           <mxGeometry x="45" y="572" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-72" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-72" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="3335" y="1050" width="20" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-81" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-72">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-81" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-72" vertex="1">
           <mxGeometry x="5" y="60" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-123" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-72">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-123" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-72" vertex="1">
           <mxGeometry x="5" y="570" width="10" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Внутренний клиент&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Внутренний клиент&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="3290" y="1030" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-74" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-74" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="3676" y="1050" width="20" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-96" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-74">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-96" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-74" vertex="1">
           <mxGeometry x="5" y="215" width="10" height="355" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-97" value="1.2.1 Обработка&lt;div&gt;заявки&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" target="SolspKhvzFaGAcxTTi5h-96" parent="SolspKhvzFaGAcxTTi5h-74">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-97" value="1.2.1 Обработка&lt;div&gt;заявки&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-74" target="SolspKhvzFaGAcxTTi5h-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10.04347826086996" y="169.99999999999977" as="sourcePoint" />
             <Array as="points">
@@ -2058,10 +2058,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-98" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-74">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-98" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-74" vertex="1">
           <mxGeometry x="10" y="253" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-99" value="1.2.2 Расчет ресурсов" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" target="SolspKhvzFaGAcxTTi5h-98" parent="SolspKhvzFaGAcxTTi5h-74">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-99" value="1.2.2 Расчет ресурсов" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-74" target="SolspKhvzFaGAcxTTi5h-98" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="15" y="240" as="sourcePoint" />
             <Array as="points">
@@ -2070,202 +2070,208 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-103" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-74">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-103" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-74" vertex="1">
           <mxGeometry x="5" y="166" width="10" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Менеджер инфраструктуры&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Менеджер инфраструктуры&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="3601" y="1030" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-76" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-76" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;size=40;horizontal=1;align=center;spacingTop=0;spacing=3;spacingLeft=1;" parent="1" vertex="1">
           <mxGeometry x="3861" y="1050" width="20" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-108" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="SolspKhvzFaGAcxTTi5h-76">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-108" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="SolspKhvzFaGAcxTTi5h-76" vertex="1">
           <mxGeometry x="5" y="406.5" width="10" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-77" value="&lt;span style=&quot;font-size: 12px; text-wrap: nowrap;&quot;&gt;Вендор&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-77" value="&lt;span style=&quot;font-size: 12px; text-wrap: nowrap;&quot;&gt;Вендор&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="3786" y="1030" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-86" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1 Запрос вычислительных ресурсов&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" target="SolspKhvzFaGAcxTTi5h-85" parent="1" source="SolspKhvzFaGAcxTTi5h-81">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-86" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1 Запрос вычислительных ресурсов&lt;/span&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" source="SolspKhvzFaGAcxTTi5h-81" target="SolspKhvzFaGAcxTTi5h-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3425" y="1120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-101" value="1.2.3 Запрос информации о&lt;div&gt;свободных ресурсов&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" target="SolspKhvzFaGAcxTTi5h-100" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-101" value="1.2.3 Запрос информации о&lt;div&gt;свободных ресурсов&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" target="SolspKhvzFaGAcxTTi5h-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3681" y="1359.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-102" value="1.3 Информация о&lt;div&gt;свободных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-102" value="1.3 Информация о&lt;div&gt;свободных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3681" y="1405" as="targetPoint" />
             <mxPoint x="3505" y="1405" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-104" value="1.2 Уведомление о&lt;div&gt;новой заявке&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" target="SolspKhvzFaGAcxTTi5h-103" parent="1" source="SolspKhvzFaGAcxTTi5h-85">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-104" value="1.2 Уведомление о&lt;div&gt;новой заявке&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" source="SolspKhvzFaGAcxTTi5h-85" target="SolspKhvzFaGAcxTTi5h-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3505.0000000000005" y="1221" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-107" value="Если ресурсов не достаточно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-107" value="Если ресурсов не достаточно" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="3696" y="1396.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-109" value="1.3.1 Закупка оборудования" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" target="SolspKhvzFaGAcxTTi5h-108" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-109" value="1.3.1 Закупка оборудования" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" target="SolspKhvzFaGAcxTTi5h-108" edge="1">
           <mxGeometry x="-0.0017" relative="1" as="geometry">
             <mxPoint x="3691" y="1461.5" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-110" value="1.3.1.1 Предоставление&lt;div&gt;оборудования&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" source="SolspKhvzFaGAcxTTi5h-108" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-110" value="1.3.1.1 Предоставление&lt;div&gt;оборудования&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" source="SolspKhvzFaGAcxTTi5h-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3691" y="1504.5" as="targetPoint" />
             <mxPoint x="3916" y="1504.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-112" value="1.3.2 Обновление информации о&lt;div&gt;доступных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" edge="1" target="SolspKhvzFaGAcxTTi5h-111" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-112" value="1.3.2 Обновление информации о&lt;div&gt;доступных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" parent="1" target="SolspKhvzFaGAcxTTi5h-111" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3681" y="1517" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-118" value="1.3.3 Выделение ресурсов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" edge="1" target="SolspKhvzFaGAcxTTi5h-117" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-118" value="1.3.3 Выделение ресурсов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" parent="1" target="SolspKhvzFaGAcxTTi5h-117" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3681" y="1566" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-121" value="1.3.4 Закрытие заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" edge="1" target="SolspKhvzFaGAcxTTi5h-120" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-121" value="1.3.4 Закрытие заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;startArrow=oval;startFill=1;" parent="1" target="SolspKhvzFaGAcxTTi5h-120" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3681" y="1607" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-124" value="1.4 Уведомление о&lt;br&gt;закрытии заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" edge="1" target="SolspKhvzFaGAcxTTi5h-123" parent="1" source="SolspKhvzFaGAcxTTi5h-120">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-124" value="1.4 Уведомление о&lt;br&gt;закрытии заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=none;" parent="1" source="SolspKhvzFaGAcxTTi5h-120" target="SolspKhvzFaGAcxTTi5h-123" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3420" y="1625" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-126" target="SolspKhvzFaGAcxTTi5h-130">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-126" target="SolspKhvzFaGAcxTTi5h-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-126" value="Внутренний заказчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-126" value="Внутренний заказчик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3300" y="1823" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-153" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-127" target="SolspKhvzFaGAcxTTi5h-128">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-153" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-127" target="SolspKhvzFaGAcxTTi5h-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-127" value="Менеджер инфраструктуры" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-127" value="Менеджер инфраструктуры" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3595" y="2160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-128" value="Вендор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-128" value="Вендор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3310" y="2160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-139" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-130" target="SolspKhvzFaGAcxTTi5h-127">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-139" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-130" target="SolspKhvzFaGAcxTTi5h-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-130" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Информационная система&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-130" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Информационная система&lt;/span&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3555" y="1828" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-135" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1 Запрос вычислительных ресурсов&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-135" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;1 Запрос вычислительных ресурсов&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="10" width="80" relative="1" as="geometry">
             <mxPoint x="3420" y="1837.6000000000001" as="sourcePoint" />
             <mxPoint x="3500" y="1837.6000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-136" value="1.4 Уведомление о&lt;br&gt;закрытии заявки" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-136" value="1.4 Уведомление о&lt;br&gt;закрытии заявки" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="37" relative="1" as="geometry">
             <mxPoint x="3500" y="1867.6000000000001" as="sourcePoint" />
             <mxPoint x="3420" y="1867.6000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-141" value="1.2 Уведомление о&lt;div&gt;новой заявке&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-141" value="1.2 Уведомление о&lt;div&gt;новой заявке&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.25" y="55" width="80" relative="1" as="geometry">
             <mxPoint x="3625" y="1930" as="sourcePoint" />
             <mxPoint x="3625" y="2010" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-130" target="SolspKhvzFaGAcxTTi5h-130">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-142" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-130" target="SolspKhvzFaGAcxTTi5h-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3560" y="1800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-143" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.1 Создание&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;заявки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-143" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.1 Создание&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;заявки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="10" width="80" relative="1" as="geometry">
             <mxPoint x="3570" y="1788.0000000000002" as="sourcePoint" />
             <mxPoint x="3650" y="1788.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-145" value="1.3 Информация о&lt;div&gt;свободных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-145" value="1.3 Информация о&lt;div&gt;свободных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry x="-0.25" y="55" width="80" relative="1" as="geometry">
             <mxPoint x="3635" y="1970" as="sourcePoint" />
             <mxPoint x="3635" y="2050" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-146" value="1.2.3 Запрос информации о&lt;div&gt;свободных ресурсов&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-146" value="1.2.3 Запрос информации о&lt;div&gt;свободных ресурсов&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="80" width="80" relative="1" as="geometry">
             <mxPoint x="3589.9999999999995" y="2010" as="sourcePoint" />
             <mxPoint x="3589.9999999999995" y="1930" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-147" value="1.3.2 Обновление информации о&lt;div&gt;доступных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-147" value="1.3.2 Обновление информации о&lt;div&gt;доступных ресурсах&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="90" width="80" relative="1" as="geometry">
             <mxPoint x="3579.9999999999995" y="2050" as="sourcePoint" />
             <mxPoint x="3579.9999999999995" y="1970" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-148" value="1.3.3 Выделение ресурсов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-148" value="1.3.3 Выделение ресурсов" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.375" y="80" width="80" relative="1" as="geometry">
             <mxPoint x="3569.9999999999995" y="2095" as="sourcePoint" />
             <mxPoint x="3569.9999999999995" y="2015" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-149" value="1.3.4 Закрытие заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-149" value="1.3.4 Закрытие заявки" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.25" y="70" width="80" relative="1" as="geometry">
             <mxPoint x="3559.9999999999995" y="2135" as="sourcePoint" />
             <mxPoint x="3559.9999999999995" y="2055" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="SolspKhvzFaGAcxTTi5h-127" target="SolspKhvzFaGAcxTTi5h-127">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="SolspKhvzFaGAcxTTi5h-127" target="SolspKhvzFaGAcxTTi5h-127" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3690" y="2220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-151" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.2.1 Обработка&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;заявки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-151" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.2.1 Обработка&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;заявки&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.25" y="55" width="80" relative="1" as="geometry">
             <mxPoint x="3700" y="2120" as="sourcePoint" />
             <mxPoint x="3700" y="2200" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-152" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.2.2 Расчет&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;ресурсов&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-152" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.2.2 Расчет&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;ресурсов&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.25" y="41" width="80" relative="1" as="geometry">
             <mxPoint x="3709.5" y="2160" as="sourcePoint" />
             <mxPoint x="3709.5" y="2240" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-154" value="1.3.1 Закупка оборудования" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-154" value="1.3.1 Закупка оборудования" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry y="-15" width="80" relative="1" as="geometry">
             <mxPoint x="3490" y="2174.57" as="sourcePoint" />
             <mxPoint x="3410" y="2174.57" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SolspKhvzFaGAcxTTi5h-155" value="1.3.1.1 Предоставление&lt;div&gt;оборудования&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="SolspKhvzFaGAcxTTi5h-155" value="1.3.1.1 Предоставление&lt;div&gt;оборудования&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.125" y="-40" relative="1" as="geometry">
             <mxPoint x="3415" y="2210" as="sourcePoint" />
             <mxPoint x="3495" y="2210" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5VHPsvaV7zk4mX6MaT5A-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Entity&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Внутренний заказчик&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- имя: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- возраст: int&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- документация: List&amp;lt;Файл&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- дата: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;- время: String&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Добавить документацию(файл Файл): void&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Показать медицинскую карту(): List&amp;lt;Запись&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Показать документацию(): List&amp;lt;Файл&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Получить заключение(заключение: Заключение): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Получить рецепт(рецепт: Рецепт): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3070" y="2430" width="400" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5VHPsvaV7zk4mX6MaT5A-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Control&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Файловое хранилище&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- заявки: List&amp;lt;Заявка&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- ресурсы: List&amp;lt;Оборудование&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- пользователи: List&amp;lt;Пользователь&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Поиск файла(файл: Файл): Файл&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Добавление файла(файл: Файл): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Удаление файла(файл: Файл): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Поиск рецепта(рецепт: Рецепт): Рецепт&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Добавление рецепта(рецепт: Рецепт): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Удаление рецепта(рецепт: Рецепт): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Поиск заключения(заключение: Заключение): Заключение&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Добавление заключения(заключение: Заключение): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ Удаление заключения(заключение: Заключение): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="2430" width="359" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
